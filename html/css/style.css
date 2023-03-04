@@ -1,8 +1,9 @@
-h1{
+h1, h2{
     font-family: Arial;
     color: blue;
 }
 p{
     font-family: Arial;
-    font-size: 16px;
+    font-size: 18px;
+    color: red;
 }
