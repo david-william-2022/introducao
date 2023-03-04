@@ -1,2 +1,2 @@
 # introducao
- Introcução ao html e css essencial
+ Estou realizando um curso pela plataforma Udemy de HTML E CSS Essencial.
