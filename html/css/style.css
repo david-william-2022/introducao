@@ -18,12 +18,13 @@ p {
 
 h1,
 h2 {
-    font-family: arial;
+    font-family: Arial;
     text-align: center;
+    color: #4682B4;
 }
 
 h3 {
-    font-family: arial;
+    font-family: Arial;
     text-align: center;
 }
 
@@ -38,5 +39,11 @@ img {
 }
 
 .contato {
-    font-size: 0,85em;
+    font-size: 0, 85em;
+}
+
+.cliente {
+    text-align: center;
+    color: #4682B4;
+    font-family: Arial;
 }
